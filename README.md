@@ -1,0 +1,2 @@
+# statki
+Testing Python .
